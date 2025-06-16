@@ -261,6 +261,11 @@ details {
 }
 
 @media screen and (max-width: 768px) {
+
+    header {
+        background-attachment: scroll;
+    }
+    
     .avaliacoes {
         width: 95vw;
         height: auto;
@@ -309,6 +314,11 @@ details {
 }
 
 @media screen and (max-width: 480px) {
+
+    header {
+        background-attachment: scroll;
+    }
+    
     .container {
         padding: 0 20px;
     }
